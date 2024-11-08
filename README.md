@@ -92,18 +92,23 @@ some commands
 for more LLM go to https://ollama.com/library
 ## Screenshots
 proot-distros installed
-![proot-distro](https://github.com/LegitCoconut/llama-on-android/blob/main/screenshots/ollama_installed.jpg)
+
+![proot-distro](https://github.com/LegitCoconut/llama-on-android/blob/main/screenshots/proot-distro.jpg)
 
 ollama Screenshot
+
 ![App Screenshot](https://github.com/LegitCoconut/llama-on-android/blob/main/screenshots/ollama.jpg)
 
 ollama sucesffuly installed
+
 ![ollama installed](https://github.com/LegitCoconut/llama-on-android/blob/main/screenshots/ollama_installed.jpg)
 
 sample output from ollama
+
 ![sample output](https://github.com/LegitCoconut/llama-on-android/blob/main/screenshots/ollama_out_chat.jpg)
 
 sample video 
+
 ![sample vid](https://github.com/LegitCoconut/llama-on-android/blob/main/screenshots/ollama.mp4)
 
 
