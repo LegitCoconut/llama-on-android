@@ -93,11 +93,7 @@ for more LLM go to https://ollama.com/library
 ## Screenshots
 proot-distros installed
 
-![proot-distro](https://github.com/LegitCoconut/llama-on-android/blob/main/screenshots/proot-distro.jpg)
-
-ollama Screenshot
-
-![App Screenshot](https://github.com/LegitCoconut/llama-on-android/blob/main/screenshots/ollama.jpg)
+![proot-distro](https://github.com/LegitCoconut/llama-on-android/blob/main/screenshots/proot-distro.png)
 
 ollama sucesffuly installed
 
