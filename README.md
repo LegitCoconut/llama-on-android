@@ -1,6 +1,8 @@
 
 # llama-on-android
 A simple guide on how to install llama on your system using termux and proot-distro 
+![ollama client](https://github.com/LegitCoconut/llama-on-android/blob/main/screenshots/ollama.jpg)
+
 ## Installation of proot-distro
 
 Install termux from Fdroid or from github
