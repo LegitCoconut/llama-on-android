@@ -1,5 +1,5 @@
 
-# ![ollama](https://github.com/LegitCoconut/llama-on-android/blob/main/screenshots/ollama_client.png)llama-on-android
+# ![ollama](https://github.com/LegitCoconut/llama-on-android/blob/main/screenshots/ollama_client_resize.png)llama-on-android
 A simple guide on how to install llama on your system using termux and proot-distro 
 
 recorded video of running llama at the end of the page 
