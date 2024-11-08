@@ -1,7 +1,10 @@
 
-# llama-on-android
+# ![ollama](https://github.com/LegitCoconut/llama-on-android/blob/main/screenshots/ollama_client.png)llama-on-android
 A simple guide on how to install llama on your system using termux and proot-distro 
-![ollama client](https://github.com/LegitCoconut/llama-on-android/blob/main/screenshots/ollama.jpg)
+
+recorded video of running llama at the end of the page 
+
+
 
 ## Installation of proot-distro
 
@@ -50,8 +53,8 @@ Install ollama by running the command in ubuntu by proot-distro
 ```
 After installing ollama client start the service 
 ```bash
-  ollama serve &     // runs in backround
-  ollama serve      // open new session
+  ollama serve &     - runs in backround
+  ollama serve      - open new session
 ```
 Install LLM according to the ram availablility of yout phone
 
@@ -71,14 +74,43 @@ Install NTPDATE to sync the time of the ubuntu with actual time
 ```bash 
   ollama run llama3.2:1b 
 ```
-this installs and runs the smallest and lightest LLM in your phoen 
+this installs and runs the smallest and lightest LLM in your phone and automatically runs it for you 
+
+some commands
+```bash
+  /bye  - exits from llama
+  /clear  - clears current memory
+```
+#### make sure to kill the ollama processes after use
+```bash
+  top
+  kill <pid-code>
+```
 
 #### please do intsall LLM which is lesser than avg available RAM 
 
 for more LLM go to https://ollama.com/library
 ## Screenshots
+proot-distros installed
+![proot-distro](https://github.com/LegitCoconut/llama-on-android/blob/main/screenshots/ollama_installed.jpg)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+ollama Screenshot
+![App Screenshot](https://github.com/LegitCoconut/llama-on-android/blob/main/screenshots/ollama.jpg)
+
+ollama sucesffuly installed
+![ollama installed](https://github.com/LegitCoconut/llama-on-android/blob/main/screenshots/ollama_installed.jpg)
+
+sample output from ollama
+![sample output](https://github.com/LegitCoconut/llama-on-android/blob/main/screenshots/ollama_out_chat.jpg)
+
+sample video 
+![sample vid](https://github.com/LegitCoconut/llama-on-android/blob/main/screenshots/ollama.mp4)
+
+
+### Next Phase Tasks
+
+- Make web interface for communication
+
 
 
 ## Support
