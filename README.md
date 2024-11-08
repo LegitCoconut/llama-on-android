@@ -111,6 +111,7 @@ https://github.com/user-attachments/assets/02b28419-90b9-4fc7-b8a4-43d91036ed08
 ### Next Phase Tasks
 
 - Make web interface for communication
+- pdf version of how to install coming soon
 
 
 
