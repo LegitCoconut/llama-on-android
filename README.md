@@ -105,7 +105,7 @@ sample output from ollama
 
 sample video 
 
-![sample vid](https://github.com/LegitCoconut/llama-on-android/blob/main/screenshots/ollama.mp4)
+https://github.com/user-attachments/assets/02b28419-90b9-4fc7-b8a4-43d91036ed08
 
 
 ### Next Phase Tasks
