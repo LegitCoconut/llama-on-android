@@ -98,10 +98,15 @@ We are going to use open-WebUI for connecting llama API , install the open-WebUI
 ```bash
   python --version
 ```
-now install the open-webui 
+Now install the open-webui 
 ```bash
   pip install open-webui
 ```
+Start the webUI server 
+```bash
+    open-webui serve
+```
+
 after sucessfull installation run the open-webUI web interface 
 ```bash 
   localhost:8080
