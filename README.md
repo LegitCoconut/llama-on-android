@@ -90,6 +90,28 @@ some commands
 #### please do intsall LLM which is lesser than avg available RAM 
 
 for more LLM go to https://ollama.com/library
+
+## Installation of webinterface for chatting with ollama through local web interface
+
+We are going to use open-WebUI for connecting llama API , install the open-WebUI using python or run on docker
+#### Make sure that you are using python 3.11 , other wise it will lead to error and faulty installation
+```bash
+  python --version
+```
+now install the open-webui 
+```bash
+  pip install open-webui
+```
+after sucessfull installation run the open-webUI web interface 
+```bash 
+  localhost:8080
+``` 
+the first login will be the deafault admin and you can customise a lot on the webui 
+- run multiple model at the same time
+- customise your own model based on other existing one 
+- make new user account , restrict acess and a lot more
+- integrate mistral and other AI to include more features
+
 ## Screenshots
 proot-distros installed
 
@@ -106,12 +128,6 @@ sample output from ollama
 sample video 
 
 https://github.com/user-attachments/assets/02b28419-90b9-4fc7-b8a4-43d91036ed08
-
-
-### Next Phase Tasks
-
-- Make web interface for communication
-- pdf version of how to install coming soon
 
 
 
